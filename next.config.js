@@ -6,7 +6,7 @@ const nextConfig = {
       return config;
   },
   images: {
-    domains: ['images.pexels.com','172.17.84.65','localhost','172.17.84.49'],
+    domains: ['images.pexels.com','172.17.84.65','4.144.33.203','172.17.84.49'],
   },
 }
 
