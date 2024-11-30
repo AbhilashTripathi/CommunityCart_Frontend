@@ -1,0 +1,5 @@
+#required for a react project
+node_modules/
+build/
+.DS_Store
+
